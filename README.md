@@ -1,6 +1,6 @@
 # POKELUADEX
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> **Como funciona a visualização?**
+<img src="!https://github.com/TioStitch/PokeLuaDex/assets/87840489/9681c55a-ddfe-4c75-923e-7623432a71a9" width="200" height="400" /> **Como funciona a visualização?**
 
 
 ![image](https://github.com/TioStitch/PokeLuaDex/assets/87840489/1c2001d0-f5e1-4218-ba3d-40ad92b1749e)
