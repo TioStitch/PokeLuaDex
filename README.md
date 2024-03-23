@@ -1,6 +1,6 @@
 # POKELUADEX
 
-<img src='pokeBola.png' width='25'>
+<img src='pokebola.png' width='25'>
  **Como funciona a visualização?**
 
 
