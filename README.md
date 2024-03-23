@@ -17,4 +17,4 @@
 
 <img src='Images/Console.png' center=true>
 
-**Site da Descrição dos Pokémons**: https://www.heypikachu.com
+<img src='Images/heyPikachu_logo.png' width='25'> **Site da Descrição dos Pokémons**: https://www.heypikachu.com
