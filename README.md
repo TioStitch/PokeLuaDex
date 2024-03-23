@@ -18,4 +18,4 @@
 <img src='Images/Console.png' center=true>
 
 <img src='Images/heyPikachu_logo.png' width='25'> **Descrição dos Pokémons**: https://www.heypikachu.com
-<img src='Images/pinterest_logo.png' width='25'> **Imagem dos Pokémons**: https://br.pinterest.com/
+<img src='Images/Pinterest_logo.png' width='25'> **Imagem dos Pokémons**: https://br.pinterest.com/
